@@ -1,0 +1,11 @@
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\bin\Debug\Optik Proje.exe.config
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\bin\Debug\Optik Proje.exe
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\bin\Debug\Optik Proje.pdb
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik Proje.csproj.AssemblyReference.cache
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik_Proje.Form1.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik_Proje.Properties.Resources.resources
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik Proje.csproj.GenerateResource.cache
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik Proje.csproj.CoreCompileInputs.cache
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik Proje.exe
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik Proje.pdb
+C:\Users\BERŞAN KAYA\Desktop\C#\form application\Form Projeler\Optik Proje\Optik Proje\obj\Debug\Optik_Proje.FRMURUN.resources
